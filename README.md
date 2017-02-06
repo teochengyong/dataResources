@@ -8,9 +8,9 @@ Web Accessibility Tutorials- table concepts https://www.w3.org/WAI/tutorials/tab
 
 ### Tabular Data Tools
 
-jQuery Handsontable https://github.com/handsontable/handsontable
+Kendo Ui with fixed columns with web accessibilty http://demos.telerik.com/kendo-ui/grid/virtualization-local-data
 
-Kendo Ui http://demos.telerik.com/kendo-ui/grid/virtualization-local-data
+Handsontable - Excel like Table https://handsontable.com/examples.html?headers
 
 ## Data exploration platform
 
