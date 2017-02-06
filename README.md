@@ -14,6 +14,10 @@ Webix data table http://webix.com/widget/datatable/
 
 Handsontable - Excel like Table https://handsontable.com/examples.html?headers
 
+### Font for Data table
+
+Work Sans https://fonts.google.com/specimen/Work+Sans
+
 ## Data exploration platform
 
 Superset https://github.com/airbnb/superset
