@@ -18,6 +18,9 @@ Handsontable - Excel like Table https://handsontable.com/examples.html?headers
 
 Work Sans https://fonts.google.com/specimen/Work+Sans
 
+## Graph
+Re-usable charts for d3.js http://nvd3.org/
+
 ## Data exploration platform
 
 Superset https://github.com/airbnb/superset
