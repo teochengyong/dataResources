@@ -7,6 +7,8 @@ Curating a list of resources for exploring data.
 ### Reading list
 Design Better Tabular Data https://medium.com/mission-log/design-better-data-tables-430a30a00d8c#.s008urso5
 
+Graphical perception – learn the fundamentals first http://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/
+
 Web Accessibility Tutorials- table concepts https://www.w3.org/WAI/tutorials/tables/
 
 ### Tabular Data Tools
