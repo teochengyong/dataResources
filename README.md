@@ -26,8 +26,9 @@ Backgrid - data grid widgets with BackboneJS. http://backgridjs.com/
 Work Sans https://fonts.google.com/specimen/Work+Sans
 
 ## Graph
-Re-usable charts for d3.js http://nvd3.org/
-
+NVD3 Re-usable charts for d3.js http://nvd3.org/
+  
+[Billboard.js](https://naver.github.io/billboard.js/) Re-usable easy interface JavaScript chart library, based on D3 v4+ Naver 
 ## Data exploration platform
 
 Superset https://github.com/airbnb/superset
